@@ -8,6 +8,7 @@ Assets/StreamingAssets.meta
 Assets/StreamingAssets/
 Assets/xLuaTest.meta
 Assets/xLuaTest/
+docs/source/package-lock.json
 /*.csproj
 /*.sln
 /build/build*
